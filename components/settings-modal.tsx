@@ -24,7 +24,7 @@ export const SettingsModal = () => {
                         <Label>
                             Appearance
                         </Label>
-                        <span className="text-[0.8rem] text-muted-foreground">Customize how Jotion looks on your device</span>
+                        <span className="text-[0.8rem] text-muted-foreground">Customize how Thoughscape looks on your device</span>
                     </div>
                     <ModeToggle />
                 </div>
